@@ -1,4 +1,2 @@
-import React from 'react';
-import Hello from './src/components/Hello';
-
-export default () => <Hello />;
+import Main from './src';
+export default Main;
